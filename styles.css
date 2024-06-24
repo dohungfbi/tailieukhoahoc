@@ -1,0 +1,127 @@
+/* SECTION-1 */
+.container-1 {
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.img-logo {
+    width: 270px;
+    height: auto;
+}
+
+.container-heading {
+    position: relative;
+    top: -73.4px;
+}
+
+.logo {
+    position: relative;
+}
+.logo {
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: flex-start;
+}
+
+.desc-heading {
+    margin-left: 420px;
+}
+
+.fa-hand-point-right {
+    color: #418FDD;
+    margin-right: 10px;
+}
+
+/* END SECTION-1 */
+
+/* SECTION-2 */
+
+.heading-section-2 {
+    display: flex;
+}
+
+h1 {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.sub {
+    text-align: center;
+    border: 2px solid red;
+    padding: 150px 0px;
+    margin-top: 30px;
+    font-size: 24px;
+}
+
+.math {
+    background-image: url(https://cdn.glitch.global/53c9f560-0688-429b-83cd-b435ca73a987/13-Tips-And-Tricks-To-Become-Better-At-Math.png?v=1719212063769);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #00F5D8;
+}
+
+.physics {
+    background-image: url(https://cdn.glitch.global/53c9f560-0688-429b-83cd-b435ca73a987/ly.webp?v=1719212269859);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #D9D9D9;
+}
+
+.chemical {
+    background-image: url(https://cdn.glitch.global/53c9f560-0688-429b-83cd-b435ca73a987/hoa.jpg?v=1719212269385);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.biology {
+    background-image: url(https://cdn.glitch.global/53c9f560-0688-429b-83cd-b435ca73a987/bio.jpg?v=1719212274938);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FBA91F;
+}
+
+.history {
+    background-image: url(https://cdn.glitch.global/53c9f560-0688-429b-83cd-b435ca73a987/his.jfif?v=1719212606434);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFAD1F;
+}
+
+.geo {
+    background-image: url(https://cdn.glitch.global/53c9f560-0688-429b-83cd-b435ca73a987/gro.jpg?v=1719212602921);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.edu {
+    background-image: url(https://cdn.glitch.global/53c9f560-0688-429b-83cd-b435ca73a987/edu.jpg?v=1719212612462);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.lit {
+    background-image: url(https://cdn.glitch.global/53c9f560-0688-429b-83cd-b435ca73a987/lit.jfif?v=1719212612490);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.eng {
+    background-image: url(https://cdn.glitch.global/53c9f560-0688-429b-83cd-b435ca73a987/wng.webp?v=1719212614846);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFD68A;
+}
+
+
+/* END SECTION-2 */
